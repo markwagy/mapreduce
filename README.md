@@ -1,4 +1,4 @@
-# Implementation of A Simple Map/Reduce-like Compute Framework}
+# Implementation of A Simple Map/Reduce-like Compute Framework
 
 ## Design Document: System Design
 
